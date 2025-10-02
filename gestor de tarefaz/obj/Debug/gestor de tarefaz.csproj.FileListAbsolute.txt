@@ -1,0 +1,7 @@
+C:\Users\AEPAP\Documents\escola\Prog\gestor de tarefaz\bin\Debug\gestor de tarefaz.exe.config
+C:\Users\AEPAP\Documents\escola\Prog\gestor de tarefaz\bin\Debug\gestor de tarefaz.exe
+C:\Users\AEPAP\Documents\escola\Prog\gestor de tarefaz\bin\Debug\gestor de tarefaz.pdb
+C:\Users\AEPAP\Documents\escola\Prog\gestor de tarefaz\obj\Debug\gestor de tarefaz.csproj.AssemblyReference.cache
+C:\Users\AEPAP\Documents\escola\Prog\gestor de tarefaz\obj\Debug\gestor de tarefaz.csproj.CoreCompileInputs.cache
+C:\Users\AEPAP\Documents\escola\Prog\gestor de tarefaz\obj\Debug\gestor de tarefaz.exe
+C:\Users\AEPAP\Documents\escola\Prog\gestor de tarefaz\obj\Debug\gestor de tarefaz.pdb
